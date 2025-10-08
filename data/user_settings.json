@@ -1,0 +1,21 @@
+[
+    {
+        "user_id": "user123",
+        "muted_notifications": [],
+        "quiet_hours_start": "22:00",
+        "quiet_hours_end": "07:00",
+        "digest_mode": false,
+        "updated_at": "2025-10-07T21:52:08.403924"
+    },
+    {
+        "user_id": "rohan01",
+        "muted_notifications": [
+            "marketing",
+            "daily_summary"
+        ],
+        "quiet_hours_start": "23:00",
+        "quiet_hours_end": "06:00",
+        "digest_mode": false,
+        "updated_at": "2025-10-07T21:54:31.522146"
+    }
+]
