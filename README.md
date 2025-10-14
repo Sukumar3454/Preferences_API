@@ -74,3 +74,4 @@ Once Swagger shows:
 
 
 ✅ Your F9 Preferences API has successfully stored user settings.
+
